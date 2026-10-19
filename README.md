@@ -2,7 +2,7 @@
 
 I built this personal assistant with **n8n** and **OpenAI** to help manage everyday tasks through Telegram.
 
-![Workflow screenshot](images/workflow.png)
+![Workflow screenshot](workflow.png)
 
 ### What it can do
 - Understand text messages and voice notes
